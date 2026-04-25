@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Alif Mahmud! 👋
 
-<!--
-**alif-mahmud28/alif-mahmud28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **6th Semester CSE Student** | 📊 **Aspiring Data Analyst**
 
-Here are some ideas to get you started:
+I am focused on leveraging data to solve problems. Currently strengthening my skills in Data Analysis, SQL, and Python while managing my academic studies and IELTS preparation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills & Tools
+
+- **Programming:** Python, SQL, C/C++
+- **Academic Focus:** DBMS, Operating Systems, Data Structures
+- **Learning:** Data Visualization & Power BI
+- **Other Tools:** Git, GitHub, LaTeX, AI Creative Tools
+
+---
+
+### 🌱 Currently Working On
+
+- 📈 Building Data Analysis projects with Python.
+- 📖 Preparing for IELTS for higher studies abroad.
+- 💻 Practicing Database Management Systems (DBMS).
+
+---
+
+### 📫 Connect with me:
+- **Email:** alifmahmud620289@gmail.com
+- [LinkedIn](LINK_HERE)
+
+---
+![Alif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alif-mahmud28&show_icons=true&theme=dark)
