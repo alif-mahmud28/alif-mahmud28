@@ -13,7 +13,7 @@ I am focused on leveraging data to solve problems. Currently strengthening my sk
 - **Learning:** Data Visualization & Power BI
 - **Other Tools:** Git, GitHub, LaTeX, AI Creative Tools
 
----
+
 
 ### 🌱 Currently Working On
 
@@ -21,11 +21,7 @@ I am focused on leveraging data to solve problems. Currently strengthening my sk
 - 📖 Preparing for IELTS for higher studies abroad.
 - 💻 Practicing Database Management Systems (DBMS).
 
----
 
 ### 📫 Connect with me:
 - **Email:** alifmahmud620289@gmail.com
-- [LinkedIn](LINK_HERE)
 
----
-![Alif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alif-mahmud28&show_icons=true&theme=dark)
