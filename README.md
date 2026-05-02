@@ -8,7 +8,7 @@ I am focused on leveraging data to solve problems. Currently strengthening my sk
 
 ### 🛠️ Skills & Tools
 
-- **Programming:** Python, SQL, C/C++
+- **Programming:** Python, SQL, C/C++,Excel
 - **Academic Focus:** DBMS, Operating Systems, Data Structures
 - **Learning:** Data Visualization & Power BI
 - **Other Tools:** Git, GitHub, LaTeX, AI Creative Tools
@@ -17,7 +17,7 @@ I am focused on leveraging data to solve problems. Currently strengthening my sk
 
 ### 🌱 Currently Working On
 
-- 📈 Building Data Analysis projects with Python.
+- 📈 Building Data Analysis projects with Python,Excel and SQL.
 - 📖 Preparing for IELTS for higher studies abroad.
 - 💻 Practicing Database Management Systems (DBMS).
 
